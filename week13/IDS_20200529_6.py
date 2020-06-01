@@ -1,0 +1,8 @@
+print("Luke")
+print("use the Force!")
+print("")
+print("Luke", end="")
+print("use the Force!")
+print("")
+print("Luke",end=",")
+print("use the Force!")
